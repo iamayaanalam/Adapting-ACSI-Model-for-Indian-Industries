@@ -1,1 +1,2 @@
-# Adapting-ACSI-Model-for-Indian-Industries
+**# Adapting-ACSI-Model-for-Indian-Industries**
+This project analyzes how the American Customer Satisfaction Index (ACSI) can be adapted for Indian industries by accounting for India-specific market conditions such as regional diversity, language barriers, price sensitivity, and unequal digital access. Using a mixed-methods approach, the report combines survey-based customer feedback with qualitative insights to assess satisfaction levels across banking, telecom, retail, and healthcare sectors. The study proposes a customized satisfaction framework for India, identifies sector-wise pain points, and offers phased implementation recommendations for businesses and policymakers.
