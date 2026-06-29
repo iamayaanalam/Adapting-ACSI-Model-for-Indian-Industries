@@ -1,4 +1,4 @@
-🇮🇳 Adapting the American Customer Satisfaction Index (ACSI) Model for Indian Industries
+Adapting the American Customer Satisfaction Index (ACSI) Model for Indian Industries
 
 Customer satisfaction frameworks like the American Customer Satisfaction Index (ACSI) have become global benchmarks for measuring customer experience. However, India's diverse socio-economic, cultural, and regional landscape makes a direct adoption of the model ineffective.
 
